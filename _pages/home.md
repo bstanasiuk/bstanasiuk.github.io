@@ -7,7 +7,7 @@ toc_label: "Table of Contents"
 toc_icon: "file-alt"
 toc_sticky: true
 ---
-# Projects I designed and made:
+# Personal Projects
 ## Monster Slayer GO
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/hexendlessrunner.gif){:width="300px"}{: .align-left}
 Tempor velit sint sunt ipsum tempor enim ad qui ullamco. 

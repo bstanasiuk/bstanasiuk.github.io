@@ -60,8 +60,8 @@ plugins:
 
 author:
   name   : "Bartłomiej Stanasiuk"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here.<br><br><b>Skills:</b><br>Test"
+  avatar : "/assets/images/photo.jpg"
+  bio    : "An avid gamer and passionate game developer interested in mobile, gameplay, and tools programming.<br><br><b>Skills:</b><br>Test"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"

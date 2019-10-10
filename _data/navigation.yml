@@ -1,3 +1,5 @@
 main:
- # - title: "Projects"
- #   url: /
+  - title: "Projects"
+    url: /
+  - title: "Resume"
+    url: /
