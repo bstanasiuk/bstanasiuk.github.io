@@ -9,8 +9,8 @@ toc_sticky: true
 ---
 # Personal Projects
 ## Monster Slayer GO
-<div style="float:left;margin-right:20px;">
-<video muted autoplay controls loop>
+<div style="float:left;margin-right:25px;">
+<video width="250" muted autoplay controls loop>
     <source src="{{ site.url }}{{ site.baseurl }}/assets/images/audio.mp4" type="video/mp4">
 </video>
 </div>
