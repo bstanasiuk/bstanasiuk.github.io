@@ -62,12 +62,14 @@ author:
   name   : "Bartłomiej Stanasiuk"
   avatar : "/assets/images/photo.jpg"
   bio    : "An avid gamer and passionate game developer interested in mobile, gameplay, and tools programming.
-  <br><br><b>Contact</b>
-  <br><a href=\"mailto:bartlomiej.stanasiuk@gmail.com\">bartlomiej.stanasiuk@gmail.com</a>
-  <br><br><b>Education</b>
+  <br><br><b>Education:</b>
   <br>BSc/MSc in Computer Science at Wrocław University of Technology
-  <br><br><b>Technical Skills</b>
-  <br>C#, Java, Unity3D, Spring Boot, SQL, RDBMS (PostgreSQL, Oracle), REST, JSON, Git, Github, SVN, JetBrains IDEs, Visual Studio, Eclipse"
+  <br><br><b>Technical Skills:</b>
+  <br>C#, Java, Unity3D, Spring, REST, JSON, SQL, RDBMS (PostgreSQL, Oracle), VR development, Git, Github, SVN, JetBrains IDEs, Visual Studio, Eclipse"
+  links:
+    - label: "bartlomiej.stanasiuk@gmail.com"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:bartlomiej.stanasiuk@gmail.com"
 
 footer:
   links:
