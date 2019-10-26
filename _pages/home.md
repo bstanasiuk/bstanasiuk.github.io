@@ -85,7 +85,7 @@ Vr Head Collisions is an experiment that was part of my master's thesis: <i>Meth
 </video>
 </div>
 
-Billy & Betty is a puzzle-platformer game with cooperative gameplay. You play as either Billy or Betty. Using your hair you have to find your way around various obstacles. The game took 5th place at Fifty-Fifty Game Jam in 2019. The theme of the jam was <i>long hair</i>.
+Billy & Betty is a puzzle-platformer game with cooperative gameplay. You play as either Billy or Betty. Using your hair you have to find your way around various obstacles. The game placed 5th at Fifty-Fifty Game Jam in 2019. The theme of the jam was <i>long hair</i>.
 
 <b>Meet the team:</b> 
 <br>Dela Morcian - art
@@ -124,7 +124,7 @@ Super QZ0; Fighters is a PvP game with clumsy ragdoll physics. Walk on a keyboar
 </video>
 </div>
 
-Samurai Showdown is a PvP stealth game. Use your surrounding to your advantage and try to stab your opponent before he does it first. The game took 14th place at Sensei Game Jam in 2018. The theme of the gam was <i>darkness is your ally</i>.
+Samurai Showdown is a PvP stealth game. Use your surrounding to your advantage and try to stab your opponent before he does it first. The game placed 14th at Sensei Game Jam in 2018. The theme of the gam was <i>darkness is your ally</i>.
 
 <b>Meet the team:</b> 
 <br>Michał Dunat - programming
@@ -144,7 +144,7 @@ Samurai Showdown is a PvP stealth game. Use your surrounding to your advantage a
 </video>
 </div>
 
-Squid Trouble is an arcade-style action game. Position yourself carefully and try to survive against waves of murderous fishes by ejecting clouds of ink. The game took 5th place at Akademia F2P Game Jam in 2017. The theme of the jam was <i>free-to-play game</i>.
+Squid Trouble is an arcade-style action game. Position yourself carefully and try to survive against waves of murderous fishes by ejecting clouds of ink. The game placed 5th at Akademia F2P Game Jam in 2017. The theme of the jam was <i>free-to-play game</i>.
 
 <b>Meet the team:</b> 
 <br>Kinga Jaroszewicz - art
