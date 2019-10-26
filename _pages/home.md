@@ -13,7 +13,7 @@ toc_sticky: true
 ## Monster Slayer GO
 <div style="float:left;margin-right:20px;">
 <video width="300" muted autoplay controls loop>
-    <source src="{{ site.url }}{{ site.baseurl }}/assets/images/audio.mp4" type="video/mp4">
+    <source src="{{ site.url }}{{ site.baseurl }}/assets/videos/monsterslayergo.mp4" type="video/mp4">
 </video>
 </div>
 Monster Slayer GO is a multiplayer, location-based RPG game. Players take on the role of a medieval knight in a fantasy world that is based on real map data. Features turn-based combat with various monsters, PvP battles, equipment, inventory, shop systems, and much more.
@@ -33,7 +33,7 @@ Monster Slayer GO is a multiplayer, location-based RPG game. Players take on the
 ## Volcano Runner
 <div style="float:left;margin-right:20px;">
 <video width="300" muted autoplay controls loop>
-    <source src="{{ site.url }}{{ site.baseurl }}/assets/images/audio.mp4" type="video/mp4">
+    <source src="{{ site.url }}{{ site.baseurl }}/assets/videos/volcanorunner.mp4" type="video/mp4">
 </video>
 </div>
 Volcano Runner is an endless runner game placed on a 3D hexagonal grid. The player wakes up on a volcano that has just erupted. To survive he has to climb as high as possible, evade blowing geysers, and avoid falling into deadly lava at all cost.
@@ -41,7 +41,7 @@ Volcano Runner is an endless runner game placed on a 3D hexagonal grid. The play
 <b>Technical aspects:</b>
 - [x] Game was made in Unity.
 - [x] Optimized for mobile devices (meshes, shaders, particles, map generation).
-- [x] The volcano is fully procedurally generated. [Click to see it in action.](/assets/videos/test.mp4)
+- [x] The volcano is fully procedurally generated. [Click to see it in action.](/assets/videos/mapgeneration.mp4)
 - [x] Different seed is used for every generated map. Each volcano is unique but still balanced for the gameplay.
 
 <a href='https://play.google.com/store/apps/details?id=com.bstanasiuk.volcanorunner&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img width="250" class="align-center" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
@@ -49,7 +49,7 @@ Volcano Runner is an endless runner game placed on a 3D hexagonal grid. The play
 ## Checkers Extended
 <div style="float:left;margin-right:20px;">
 <video width="300" muted autoplay controls loop>
-    <source src="{{ site.url }}{{ site.baseurl }}/assets/images/audio.mp4" type="video/mp4">
+    <source src="{{ site.url }}{{ site.baseurl }}/assets/videos/checkers.mp4" type="video/mp4">
 </video>
 </div>
 Checkers Extended is another take on traditional checkers game with lots of customization options. Features different board sizes (6x6, 8x8, 10x10, 12x12), three game modes (local PvP, player vs AI, AI vs AI), scalable AI difficulty, and customization for other rules such as first move or move tip.
@@ -58,7 +58,7 @@ Checkers Extended is another take on traditional checkers game with lots of cust
 - [x] Game was made in Unity.
 - [x] Negamax algorithm with alpha beta pruning was used for AI.
 - [x] The decision making algorithm uses an original evaluation function and move ordering heuristics.
-- [x] Checkerboard is procedurally generated and is scalable to any size. Due to smartphone hardware limitations, the size is constrained to 12x12 board.
+- [x] Checkerboard is procedurally generated and is scalable to any size. Due to smartphone hardware limitations, the size was constrained to 12x12 board.
 
 <a href='https://play.google.com/store/apps/details?id=com.bstanasiuk.checkersextended&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img width="250" class="align-center" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
 
@@ -66,11 +66,11 @@ Checkers Extended is another take on traditional checkers game with lots of cust
 
 <div style="margin-bottom:15px;">
 <video class="align-center" width="600" muted autoplay controls loop>
-    <source src="{{ site.url }}{{ site.baseurl }}/assets/videos/vr-collisions.mp4" type="video/mp4">
+    <source src="{{ site.url }}{{ site.baseurl }}/assets/videos/vrcollisions.mp4" type="video/mp4">
 </video>
 </div>
 
-This experiment was part of my master's thesis: <i>Methods for implementing user movement in VR</i>. In the paper a comparison of selected algorithms used to handle VR head collisions was presented. The following four methods were chosen and implemented: screen fade, delayed push-back, instant push-back, and teleportation. The paper examined what effects these methods have on VR sickness, the sense of presence, and the usability level. The screen fade method turned out to be the most efficient one of the four solutions and should be the first choice for VR developers. [Click to read more in my master's thesis.](/assets/docs/master-thesis.pdf)
+Vr Head Collisions is an experiment that was part of my master's thesis: <i>Methods for implementing user movement in VR</i>. In the paper a comparison of selected algorithms used to handle VR head collisions was conducted. Four different methods were chosen and implemented: screen fade, delayed push-back, instant push-back, and teleportation. The paper examined what effects these methods have on VR sickness, the sense of presence, and the usability level. Overall, the screen fade method turned out to be the most efficient one of the four solutions and should be the first choice for VR developers that plan to handle collisions in their games. [Read more in my master's thesis.](/assets/docs/master-thesis.pdf)
 
 <div style="margin-bottom:60px; text-align: center">
 <a href="{{ site.url }}{{ site.baseurl }}/assets/builds/VR-Collisions.zip" class="btn btn--primary">Download experiment (Windows only, HTC Vive required)</a>
@@ -81,14 +81,11 @@ This experiment was part of my master's thesis: <i>Methods for implementing user
 ## Fifty-Fifty Game Jam 2019
 <div style="margin-bottom:15px;">
 <video class="align-center" width="600" muted autoplay controls loop>
-    <source src="{{ site.url }}{{ site.baseurl }}/assets/videos/vr-collisions.mp4" type="video/mp4">
+    <source src="{{ site.url }}{{ site.baseurl }}/assets/videos/billyandbetty.mp4" type="video/mp4">
 </video>
 </div>
 
-<b>Game Title:</b> 
-<br><i>Billy & Betty</i>
-
-5th place at <i>Fifty-Fifty Game Jam</i> in 2019 with a theme of <i>long hair</i>.
+Billy & Betty is a puzzle-platformer game with cooperative gameplay. You play as either Billy or Betty. Using your hair you have to find your way around various obstacles. The game took 5th place at Fifty-Fifty Game Jam in 2019. The theme of the jam was <i>long hair</i>.
 
 <b>Meet the team:</b> 
 <br>Dela Morcian - art
@@ -102,14 +99,11 @@ This experiment was part of my master's thesis: <i>Methods for implementing user
 ## TK Game Jam 2019
 <div style="margin-bottom:15px;">
 <video class="align-center" width="600" muted autoplay controls loop>
-    <source src="{{ site.url }}{{ site.baseurl }}/assets/videos/vr-collisions.mp4" type="video/mp4">
+    <source src="{{ site.url }}{{ site.baseurl }}/assets/videos/superqz0fighters.mp4" type="video/mp4">
 </video>
 </div>
 
-<b>Game Title:</b> 
-<br><i>Super QZ0; Fighters</i>
-
-1st place at <i>TK Game Jam</i> in 2019 with a theme of <i>synthetic / asylum / progress / contrast</i>.
+Super QZ0; Fighters is a PvP game with clumsy ragdoll physics. Walk on a keyboard, both in the game and real life, and try to stab the second player. The game won 1st place at TK Game Jam in 2019. The theme of the jam was <i>synthetic / asylum / progress / contrast</i>.
 
 <b>Meet the team:</b> 
 <br>Bartosz Jakubczyński - game design
@@ -126,14 +120,11 @@ This experiment was part of my master's thesis: <i>Methods for implementing user
 ## Sensei Game Jam 2018
 <div style="margin-bottom:15px;">
 <video class="align-center" width="600" muted autoplay controls loop>
-    <source src="{{ site.url }}{{ site.baseurl }}/assets/videos/vr-collisions.mp4" type="video/mp4">
+    <source src="{{ site.url }}{{ site.baseurl }}/assets/videos/samuraishowdown.mp4" type="video/mp4">
 </video>
 </div>
 
-<b>Game Title:</b> 
-<br><i>Samurai Showdown</i>
-
-14tht place at <i>Sensei Game Jam</i> in 2018 with a theme of <i>darkness is your ally</i>.
+Samurai Showdown is a PvP stealth game. Use your surrounding to your advantage and try to stab your opponent before he does it first. The game took 14th place at Sensei Game Jam in 2018. The theme of the gam was <i>darkness is your ally</i>.
 
 <b>Meet the team:</b> 
 <br>Michał Dunat - programming
@@ -149,14 +140,11 @@ This experiment was part of my master's thesis: <i>Methods for implementing user
 ## Akademia F2P Game Jam 2017
 <div style="margin-bottom:15px;">
 <video class="align-center" width="600" muted autoplay controls loop>
-    <source src="{{ site.url }}{{ site.baseurl }}/assets/videos/vr-collisions.mp4" type="video/mp4">
+    <source src="{{ site.url }}{{ site.baseurl }}/assets/videos/squidtrouble.mp4" type="video/mp4">
 </video>
 </div>
 
-<b>Game Title:</b> 
-<br><i>Squid Trouble</i>
-
-5tht place at <i>Akademia F2P Game Jam</i> in 2017 with a theme of <i>free-to-play game</i>.
+Squid Trouble is an arcade-style action game. Position yourself carefully and try to survive against waves of murderous fishes by ejecting clouds of ink. The game took 5th place at Akademia F2P Game Jam in 2017. The theme of the jam was <i>free-to-play game</i>.
 
 <b>Meet the team:</b> 
 <br>Kinga Jaroszewicz - art
