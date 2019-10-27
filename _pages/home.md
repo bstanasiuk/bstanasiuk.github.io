@@ -56,7 +56,7 @@ Checkers Extended is another take on traditional checkers game with lots of cust
 
 <b>Technical aspects:</b>
 - [x] Game was made in Unity.
-- [x] Negamax algorithm with alpha beta pruning was used for AI.
+- [x] Negamax algorithm with alpha beta pruning was used for the AI.
 - [x] The decision making algorithm uses an original evaluation function and move ordering heuristics.
 - [x] Checkerboard is procedurally generated and is scalable to any size. Due to smartphone hardware limitations, the size was constrained to 12x12 board.
 
