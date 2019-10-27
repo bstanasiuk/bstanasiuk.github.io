@@ -70,7 +70,7 @@ Checkers Extended is another take on traditional checkers game with lots of cust
 </video>
 </div>
 
-Vr Head Collisions is an experiment that was part of my master's thesis: <i>Methods for implementing user movement in VR</i>. In the paper a comparison of selected algorithms used to handle VR head collisions was conducted. Four different methods were chosen and implemented: screen fade, delayed push-back, instant push-back, and teleportation. The paper examined what effects these methods have on VR sickness, the sense of presence, and the usability level. Overall, the screen fade method turned out to be the most efficient one of the four solutions and should be the first choice for VR developers that plan to handle collisions in their games. [Read more in my master's thesis.](/assets/docs/master-thesis.pdf)
+VR Head Collisions is an experiment that was part of my master's thesis: <i>Methods for implementing user movement in VR</i>. In the paper a comparison of selected algorithms used to handle VR head collisions was conducted. Four different methods were chosen and implemented: screen fade, delayed push-back, instant push-back, and teleportation. The paper examined what effects these methods have on VR sickness, the sense of presence, and the usability level. Overall, the screen fade method turned out to be the most efficient one of the four solutions and should be the first choice for VR developers that plan to handle collisions in their games. [Read more in my master's thesis.](/assets/docs/master-thesis.pdf)
 
 <div style="margin-bottom:60px; text-align: center">
 <a href="{{ site.url }}{{ site.baseurl }}/assets/builds/VR-Collisions.zip" class="btn btn--primary">Download experiment (Windows only, HTC Vive required)</a>
