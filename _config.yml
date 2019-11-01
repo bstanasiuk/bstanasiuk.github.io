@@ -65,7 +65,7 @@ author:
   <br><br><b>Education:</b>
   <br>BSc/MSc in Computer Science at Wrocław University of Technology
   <br><br><b>Technical Skills:</b>
-  <br>C#, Java, Unity3D, Spring, REST, JSON, SQL, RDBMS (PostgreSQL, Oracle), VR development, Git, Github, SVN, JetBrains IDEs, Visual Studio, Eclipse"
+  <br>C#, Java, Unity3D, Spring Boot, REST, SQL, RDBMS (PostgreSQL, Oracle), version control (Git, Github, SVN), JetBrains IDEs, Visual Studio, Eclipse"
   links:
     - label: "bartlomiej.stanasiuk@gmail.com"
       icon: "fas fa-fw fa-envelope"
