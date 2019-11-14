@@ -46,22 +46,6 @@ Volcano Runner is an endless runner game placed on a 3D hexagonal grid. The play
 
 <a href='https://play.google.com/store/apps/details?id=com.bstanasiuk.volcanorunner&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img width="250" class="align-center" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
 
-## Checkers Extended
-<div style="float:left;margin-right:20px;">
-<video width="300" muted autoplay controls loop>
-    <source src="{{ site.url }}{{ site.baseurl }}/assets/videos/checkers.mp4" type="video/mp4">
-</video>
-</div>
-Checkers Extended is another take on traditional checkers game with lots of customization options. Features different board sizes (6x6, 8x8, 10x10, 12x12), three game modes (local PvP, player vs AI, AI vs AI), scalable AI difficulty, and customization for other rules such as first move or move tip.
-
-<b>Technical aspects:</b>
-- [x] Game was made in Unity.
-- [x] Negamax algorithm with alpha beta pruning was used for the AI.
-- [x] The decision making algorithm uses an original evaluation function and move ordering heuristics.
-- [x] Checkerboard is procedurally generated and is scalable to any size. Due to smartphone hardware limitations, the size was constrained to 12x12 board.
-
-<a href='https://play.google.com/store/apps/details?id=com.bstanasiuk.checkersextended&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img width="250" class="align-center" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
-
 ## VR Head Collisions
 
 <div style="margin-bottom:15px;">
@@ -76,25 +60,23 @@ VR Head Collisions is an experiment that was part of my master's thesis: <i>Meth
 <a href="{{ site.url }}{{ site.baseurl }}/assets/builds/VR-Collisions.zip" class="btn btn--primary">Download experiment (Windows only, HTC Vive required)</a>
 </div>
 
-# 48hr Game Jams
-
-## Fifty-Fifty Game Jam 2019
-<div style="margin-bottom:15px;">
-<video class="align-center" width="600" muted autoplay controls loop>
-    <source src="{{ site.url }}{{ site.baseurl }}/assets/videos/billyandbetty.mp4" type="video/mp4">
+## Checkers Extended
+<div style="float:left;margin-right:20px;">
+<video width="300" muted autoplay controls loop>
+    <source src="{{ site.url }}{{ site.baseurl }}/assets/videos/checkers.mp4" type="video/mp4">
 </video>
 </div>
+Checkers Extended is another take on traditional checkers game with lots of customization options. The objective of the project was to create an AI that is extremely hard to beat. The game features different board sizes (6x6, 8x8, 10x10, 12x12), three game modes (local PvP, player vs AI, AI vs AI), scalable AI difficulty, and customization for other rules such as first move or move tip.
 
-Billy & Betty is a puzzle-platformer game with cooperative gameplay. You play as either Billy or Betty. Using your hair you have to find your way around various obstacles. The game placed 5th at Fifty-Fifty Game Jam in 2019. The theme of the jam was <i>long hair</i>.
+<b>Technical aspects:</b>
+- [x] Game was made in Unity.
+- [x] Negamax algorithm with alpha beta pruning was used for the AI.
+- [x] The decision making algorithm uses an original evaluation function and move ordering heuristics.
+- [x] The checkerboard is procedurally generated and is scalable to any size. Due to smartphone hardware limitations, the size was constrained to 12x12 board.
 
-<b>Meet the team:</b> 
-<br>Dela Morcian - art
-<br>Piotr Samborowski - game design
-<br>Bartłomiej Stanasiuk - programming
+<a href='https://play.google.com/store/apps/details?id=com.bstanasiuk.checkersextended&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img width="250" class="align-center" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
 
-<div style="margin-bottom:60px; text-align: center">
-<a href="https://bstanasiuk.itch.io/billy-betty" class="btn btn--primary">Play in the browser on itch.io</a>
-</div>
+# 48hr Game Jams
 
 ## TK Game Jam 2019
 <div style="margin-bottom:15px;">
@@ -115,6 +97,24 @@ Super QZ0; Fighters is a PvP game with clumsy ragdoll physics. Walk on a keyboar
 
 <div style="margin-bottom:60px; text-align: center">
 <a href="https://reeposter.itch.io/qz0" class="btn btn--primary">Play in the browser on itch.io</a>
+</div>
+
+## Fifty-Fifty Game Jam 2019
+<div style="margin-bottom:15px;">
+<video class="align-center" width="600" muted autoplay controls loop>
+    <source src="{{ site.url }}{{ site.baseurl }}/assets/videos/billyandbetty.mp4" type="video/mp4">
+</video>
+</div>
+
+Billy & Betty is a puzzle-platformer game with cooperative gameplay. You play as either Billy or Betty. Using your hair you have to find your way around various obstacles. The game placed 5th at Fifty-Fifty Game Jam in 2019. The theme of the jam was <i>long hair</i>.
+
+<b>Meet the team:</b> 
+<br>Dela Morcian - art
+<br>Piotr Samborowski - game design
+<br>Bartłomiej Stanasiuk - programming
+
+<div style="margin-bottom:60px; text-align: center">
+<a href="https://bstanasiuk.itch.io/billy-betty" class="btn btn--primary">Play in the browser on itch.io</a>
 </div>
 
 ## Sensei Game Jam 2018
