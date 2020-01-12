@@ -61,11 +61,11 @@ plugins:
 author:
   name   : "Bartłomiej Stanasiuk"
   avatar : "/assets/images/photo.jpg"
-  bio    : "An avid gamer and passionate game developer interested in mobile, gameplay, and tools programming.
+  bio    : "A passionate software engineer interested in web and game development in .NET technologies.
   <br><br><b>Education:</b>
   <br>BSc/MSc in Computer Science at Wrocław University of Technology
   <br><br><b>Technical Skills:</b>
-  <br>Unity3D, C#, Java, SQL, RDBMS, tools, UI, gameplay, mobile development, version control (Git, Github, SVN), JetBrains IDEs, Visual Studio, Eclipse"
+  <br>C#, Java, CSS/HTML/JavaScript, SQL, RDBMS, O/RM, JSON, ASP.NET Core, Unity3D, Spring Boot, Git, Github, SVN, Visual Studio, JetBrains IDEs"
   links:
     - label: "bartlomiej.stanasiuk@gmail.com"
       icon: "fas fa-fw fa-envelope"
@@ -76,10 +76,10 @@ footer:
     - label: "Unity Certified Developer"
       icon: "fas fa-fw fa-certificate"
       url: "https://www.youracclaim.com/badges/62f1b363-a695-4119-b71b-a6023c32b9f5"
-    - label: "Games on Play Store"
+    - label: "Apps on Play Store"
       icon: "fas fa-fw fa-play"
       url: "https://play.google.com/store/apps/developer?id=BStanasiuk"
-    - label: "Games on Itch.io"
+    - label: "Apps on Itch.io"
       icon: "fas fa-fw fa-gamepad"
       url: "https://bstanasiuk.itch.io/"
     - label: "GitHub Profile"

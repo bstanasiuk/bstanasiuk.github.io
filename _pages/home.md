@@ -39,7 +39,7 @@ Monster Slayer GO is a multiplayer, location-based RPG game. Players take on the
 Volcano Runner is an endless runner game placed on a 3D hexagonal grid. The player wakes up on a volcano that has just erupted. To survive he has to climb as high as possible, evade blowing geysers, and avoid falling into deadly lava at all cost.
 
 <b>Technical aspects:</b>
-- [x] Game was made in Unity.
+- [x] The game was written in C# in Unity3D game engine.
 - [x] Optimized for mobile devices (meshes, shaders, particles, map generation).
 - [x] The volcano is fully procedurally generated. [Click to see it in action.](/assets/videos/mapgeneration.mp4)
 - [x] Different seed is used for every generated map. Each volcano is unique but still balanced for the gameplay.
@@ -69,14 +69,14 @@ VR Head Collisions is an experiment that was part of my master's thesis: <i>Meth
 Checkers Extended is another take on traditional checkers game with lots of customization options. The objective of the project was to create an AI that is extremely hard to beat. The game features different board sizes (6x6, 8x8, 10x10, 12x12), three game modes (local PvP, player vs AI, AI vs AI), scalable AI difficulty, and customization for other rules such as first move or move tip.
 
 <b>Technical aspects:</b>
-- [x] Game was made in Unity.
+- [x] The game was written in C# in Unity3D game engine.
 - [x] Negamax algorithm with alpha beta pruning was used for the AI.
 - [x] The decision making algorithm uses an original evaluation function and move ordering heuristics.
 - [x] The checkerboard is procedurally generated and is scalable to any size. Due to smartphone hardware limitations, the size was constrained to 12x12 board.
 
 <a href='https://play.google.com/store/apps/details?id=com.bstanasiuk.checkersextended&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img width="250" class="align-center" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
 
-# 48hr Game Jams
+# 48hr Game Jams / Hackathons
 
 ## TK Game Jam 2019
 <div style="margin-bottom:15px;">
