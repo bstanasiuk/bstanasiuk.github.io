@@ -20,10 +20,10 @@ Monster Slayer GO is a multiplayer, location-based RPG game. Players take on the
 
 <b>Technical aspects:</b>
 - [x] Client-server architecture. Whole game logic and data is on server with clients only displaying the view.
-- [x] The backend is a Java Spring Boot application with REST API, hosted on Heroku. Frontend was created in Unity.
-- [x] JSON format is used for serializing and transmitting structured data.
+- [x] The backend is a ASP.NET Core application with RESTful API, deployed on Heroku in Docker container. Frontend app was created in Unity.
 - [x] PostgreSQL relational database on the backend. [Click to see Entity Relationship Diagram (ERD).](/assets/diagrams/ERD.svg)
-- [x] Integration with Mapbox Maps SDK for real map data. 
+- [x] JSON format is used for serializing and transmitting structured data.
+- [x] Integration with Mapbox Maps SDK for real map data.
 - [x] Sign-in with Google, Facebook or custom account with email verification. Integration with Firebase Authentication.
 - [x] Free-to-play model with rewarded video ads and premium currency. Integration with Unity Ads and Unity IAP.
 - [x] See some BPMN diagrams for more details about the app processes: [Sign-in](/assets/diagrams/sign-in.svg), [IAP](/assets/diagrams/IAP.svg), [PvP invitation](/assets/diagrams/pvp-invitation.svg), [PvP battle](/assets/diagrams/pvp-battle.svg).
