@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Portfolio of Bartłomiej Stanasiuk
+title: Hobby Projects of Bartłomiej Stanasiuk
 url: "https://bstanasiuk.github.io"
 baseurl: ""
 locale: "en-US"
 email: bartlomiej.stanasiuk@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to the portfolio and personal website of a game developer Bartłomiej Stanasiuk.
+  Welcome to the personal website of a developer Bartłomiej Stanasiuk.
 #twitter_username: username
 github_username: bstanasiuk
 minimal_mistakes_skin: "dark"
@@ -65,7 +65,7 @@ author:
   <br><br><b>Education:</b>
   <br>BSc/MSc in Computer Science at Wrocław University of Technology
   <br><br><b>Technical Skills:</b>
-  <br>.NET, C#, ASP.NET Core, Web API, Entity Framework Core, Unity3D, xUnit, SQL, RDBMS, Git, Github, SVN, Visual Studio, JetBrains IDEs"
+  <br>C#, JavaScript, TypeScript, HTML, CSS, .NET, .NET Core, ASP.NET, Web API, Entity Framework, Angular, xUnit, NUnit, RDBMS, SQL, Git, Unity3D"
   links:
     - label: "bartlomiej.stanasiuk@gmail.com"
       icon: "fas fa-fw fa-envelope"

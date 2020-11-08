@@ -8,7 +8,7 @@ toc_icon: "file-alt"
 toc_sticky: true
 ---
 
-# Personal Projects
+# Hobby Projects
 
 ## Monster Slayer GO
 <div style="float:left;margin-right:20px;">
@@ -20,15 +20,29 @@ Monster Slayer GO is a multiplayer, location-based RPG game. Players take on the
 
 <b>Technical aspects:</b>
 - [x] Client-server architecture. Whole game logic and data is on server with clients only displaying the view.
-- [x] The backend is a ASP.NET Core application with RESTful API, deployed on Heroku in Docker container. Frontend app was created in Unity.
+- [x] The backend is a ASP.NET Core application with RESTful API, deployed on Heroku in Docker container. The frontend app was created in Unity3D.
 - [x] PostgreSQL relational database on the backend. [Click to see Entity Relationship Diagram (ERD).](/assets/diagrams/ERD.svg)
-- [x] JSON format is used for serializing and transmitting structured data.
+- [x] Entity Framework Core is used for object-relational mapping.
 - [x] Integration with Mapbox Maps SDK for real map data.
 - [x] Sign-in with Google, Facebook or custom account with email verification. Integration with Firebase Authentication.
 - [x] Free-to-play model with rewarded video ads and premium currency. Integration with Unity Ads and Unity IAP.
-- [x] See some BPMN diagrams for more details about the app processes: [Sign-in](/assets/diagrams/sign-in.svg), [IAP](/assets/diagrams/IAP.svg), [PvP invitation](/assets/diagrams/pvp-invitation.svg), [PvP battle](/assets/diagrams/pvp-battle.svg).
+- [x] See some BPMN diagrams for more details about the app processes: [Sign-in](/assets/diagrams/sign-in.svg), [PvP invitation](/assets/diagrams/pvp-invitation.svg), [PvP battle](/assets/diagrams/pvp-battle.svg).
 
 <a href='https://play.google.com/store/apps/details?id=com.bstanasiuk.MonsterSlayerGo&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img width="250" class="align-center" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
+
+## VR Head Collisions
+
+<div style="margin-bottom:15px;">
+<video class="align-center" width="600" muted autoplay controls loop>
+    <source src="{{ site.url }}{{ site.baseurl }}/assets/videos/vrcollisions.mp4" type="video/mp4">
+</video>
+</div>
+
+VR Head Collisions is an experiment that was part of my master's thesis: <i>Methods for implementing user movement in VR</i>. In the paper a comparison of selected algorithms used to handle VR head collisions was conducted. Four different methods were chosen and implemented: screen fade, delayed push-back, instant push-back, and teleportation. The paper examined what effects these methods have on VR sickness, the sense of presence, and the usability level. Overall, the screen fade method turned out to be the most efficient one of the four solutions and should be the first choice for VR developers that plan to handle collisions in their games. Read full version in my [master's thesis](/assets/docs/master-thesis.pdf) or shorter one in my [academic paper](https://link.springer.com/chapter/10.1007%2F978-3-030-55789-8_54)
+
+<div style="margin-bottom:60px; text-align: center">
+<a href="{{ site.url }}{{ site.baseurl }}/assets/builds/VR-Collisions.zip" class="btn btn--primary">Download experiment (Windows only, HTC Vive required)</a>
+</div>
 
 ## Volcano Runner
 <div style="float:left;margin-right:20px;">
@@ -45,20 +59,6 @@ Volcano Runner is an endless runner game placed on a 3D hexagonal grid. The play
 - [x] Different seed is used for every generated map. Each volcano is unique but still balanced for the gameplay.
 
 <a href='https://play.google.com/store/apps/details?id=com.bstanasiuk.volcanorunner&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img width="250" class="align-center" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
-
-## VR Head Collisions
-
-<div style="margin-bottom:15px;">
-<video class="align-center" width="600" muted autoplay controls loop>
-    <source src="{{ site.url }}{{ site.baseurl }}/assets/videos/vrcollisions.mp4" type="video/mp4">
-</video>
-</div>
-
-VR Head Collisions is an experiment that was part of my master's thesis: <i>Methods for implementing user movement in VR</i>. In the paper a comparison of selected algorithms used to handle VR head collisions was conducted. Four different methods were chosen and implemented: screen fade, delayed push-back, instant push-back, and teleportation. The paper examined what effects these methods have on VR sickness, the sense of presence, and the usability level. Overall, the screen fade method turned out to be the most efficient one of the four solutions and should be the first choice for VR developers that plan to handle collisions in their games. [Read more in my master's thesis.](/assets/docs/master-thesis.pdf)
-
-<div style="margin-bottom:60px; text-align: center">
-<a href="{{ site.url }}{{ site.baseurl }}/assets/builds/VR-Collisions.zip" class="btn btn--primary">Download experiment (Windows only, HTC Vive required)</a>
-</div>
 
 ## Checkers Extended
 <div style="float:left;margin-right:20px;">
